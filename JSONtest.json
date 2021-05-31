@@ -1,0 +1,11 @@
+// USER CREATE EXAMPLE
+{
+  "name": "user1",
+  "email": "email@a.com",
+  "password": "password",
+  "phone": 11223344,
+  "adress": "street 123",
+  "roles_id": 1
+}
+
+// PRODUCT CREATE EXAMPLE
