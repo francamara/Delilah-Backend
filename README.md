@@ -16,16 +16,16 @@ Then on a [Node.js](https://nodejs.org/en/) terminal first install all the `node
 npm i
 ```
 
-Create a `.env` file with the required data
+Create a .env file with the required data (feel free to copy paste this example and modify to your desired requirements)
 
 ```bash
-PORT =
-DBHOST =
-DBUSER =
-DBPASSWORD =
-DIALECT =
-DBNAME =
-PRIVATEKEY =
+PORT = 111
+DBHOST = 111.2.3.4
+DBUSER = user
+DBPASSWORD = pass
+DIALECT = mysql
+DBNAME = dbname
+PRIVATEKEY = veryprivatekey
 ```
 
 ## Documentation
